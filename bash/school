@@ -1,6 +1,2 @@
-
-#!bin/School"
-#!bin/bash
-echo "ALX"
-echo "ALX"
-echo "ALX"
+#!/bin/bash
+echo "School"
